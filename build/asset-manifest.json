@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/devsdeckinc/app.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/devsdeckinc/app.io/static/js/main.462e1b5f.chunk.js",
+    "main.js.map": "/devsdeckinc/app.io/static/js/main.462e1b5f.chunk.js.map",
+    "runtime-main.js": "/devsdeckinc/app.io/static/js/runtime-main.70d6d312.js",
+    "runtime-main.js.map": "/devsdeckinc/app.io/static/js/runtime-main.70d6d312.js.map",
+    "static/js/2.6395d39a.chunk.js": "/devsdeckinc/app.io/static/js/2.6395d39a.chunk.js",
+    "static/js/2.6395d39a.chunk.js.map": "/devsdeckinc/app.io/static/js/2.6395d39a.chunk.js.map",
+    "index.html": "/devsdeckinc/app.io/index.html",
+    "precache-manifest.a386f3ca2f3294f3fbee063b3ccc55ec.js": "/devsdeckinc/app.io/precache-manifest.a386f3ca2f3294f3fbee063b3ccc55ec.js",
+    "service-worker.js": "/devsdeckinc/app.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/devsdeckinc/app.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6395d39a.chunk.js.LICENSE.txt": "/devsdeckinc/app.io/static/js/2.6395d39a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/devsdeckinc/app.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70d6d312.js",
+    "static/js/2.6395d39a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.462e1b5f.chunk.js"
+  ]
+}
